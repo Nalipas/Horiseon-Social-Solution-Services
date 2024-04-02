@@ -12,7 +12,7 @@ Included in this repository is a copy of the directory where the challege was ho
 
 ### Dependencies
 
-The completed assignment was tested on Chromium based browsers /Opera GX/ and /Google Chrome/ on a Windows machine.
+This completed assignment was tested on Chromium based browsers **Opera GX** and **Google Chrome** on a **Windows** machine, but should be viewable on any HTML supported browser.
 
 ### Installing and Executing
 
@@ -32,4 +32,6 @@ Published website with modified code by [smoreno2014\@gmail.com](mailto:smoreno2
 
 ## Acknowledgements
 
-Code reviewed [by Chad Manuel](https://github.com/chdclar16) before submission. Thank you for your help!
+Code reviewed [by Chad Manuel](https://github.com/chdclar16) before submission. 
+
+Thank you for your help!
