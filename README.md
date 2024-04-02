@@ -35,3 +35,7 @@ Published website with modified code by [smoreno2014\@gmail.com](mailto:smoreno2
 Code reviewed [by Chad Manuel](https://github.com/chdclar16) before submission. 
 
 Thank you for your help!
+
+### LICENSE
+
+Please see LICENSE in the Root folder of this repository.
