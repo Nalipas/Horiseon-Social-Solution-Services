@@ -26,7 +26,7 @@ Please send an email to [smoreno2014\@gmail.com](mailto:smoreno2014@gmail.com?su
 
 ## Authors
 
-Source code provided by [edX Boot Camps LLC](https://www.edx.org/boot-camps)
+Source code provided by [edX Boot Camps LLC](https://www.edx.org/boot-camps), and avaiable in the "02-Challenge" folder included in this repository.
 
 Published website with modified code by [smoreno2014\@gmail.com](mailto:smoreno2014@gmail.com?subject=Help)
 
