@@ -6,7 +6,7 @@ This repository contains materials for the Module 1 Challenge Assignment.
 
 The Module 1 Challenge was due on Thursday, April 4th. 
 
-Included in this repository is a copy of the directory where the challege was hosted, and in the root folder is the completed assignment, along with the necessary assets and files.
+Included in this repository is a copy of the directory where the challenge was hosted, and in the root folder is the completed assignment, along with the necessary assets and files.
 
 ## Getting Started
 
