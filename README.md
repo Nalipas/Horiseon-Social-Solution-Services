@@ -1,10 +1,10 @@
-# Module 1 Challenge
+# Horiseon Social Solution Services
 
-This repository contains materials for the Module 1 Challenge Assignment.
+This repository contains materials for the Module 1 Challenge Assignment, as well as the completed Horiseon Social Solutions Services website.
 
 ## Description
 
-The Module 1 Challenge was due on Thursday, April 4th. 
+The Module 1 Challenge was due on Thursday, April 4th. Here, a webpage for Horieson Social Solutions Services needed some changes, including HTML semantic elements and consolidated CSS.
 
 Included in this repository is a copy of the directory where the challenge was hosted, and in the root folder is the completed assignment, along with the necessary assets and files.
 
